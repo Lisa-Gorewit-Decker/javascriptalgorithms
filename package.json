@@ -35,13 +35,13 @@
     "prepare": "husky"
   },
   "devDependencies": {
-    "@babel/cli": "^7.28.6",
+    "@babel/cli": "^8.0.4",
     "@babel/preset-env": "^7.29.0",
     "@types/jest": "^30.0.0",
     "eslint": "^8.57.1",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-plugin-import": "^2.32.0",
-    "eslint-plugin-jest": "^27.9.0",
+    "eslint-plugin-jest": "^29.16.2",
     "eslint-plugin-jsx-a11y": "^6.10.2",
     "husky": "^9.1.7",
     "jest": "^30.2.0",
