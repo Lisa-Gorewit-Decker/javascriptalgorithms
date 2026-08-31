@@ -11,8 +11,6 @@ Security updates are provided for the latest released version of this project.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+To report a security vulnerability, please open a [GitHub issue](https://github.com/Lisa-Gorewit-Decker/javascriptalgorithms/issues) with the label **security** and include a description of the issue, steps to reproduce, and any relevant details.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+You can expect an acknowledgement within a few days. If the vulnerability is accepted, a fix will be prioritized and released as soon as possible. If it is declined, you will receive an explanation.
